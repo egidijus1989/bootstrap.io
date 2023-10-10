@@ -1,0 +1,14 @@
+.container {
+    background-color: #ddffaa;
+}
+.container-fluid {
+    background-color: #ffdd88;
+}
+.box {
+    background-color: #aaff99;
+    height: 300px;
+}
+.box h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
